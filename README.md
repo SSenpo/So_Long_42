@@ -15,4 +15,4 @@ To close the game window use "esq" or the red cross in the corner of the window.
 ## Bonuses
 Animations, enemies, and movement counter are implemented.
 
-## @SSenpo
+# @SSenpo
