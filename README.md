@@ -4,8 +4,8 @@ I wanted to do 2d souls, but something went wrong...
 ## So_LONG is a project about creating a game, based on the use of the minillibx library
 
 ## Compilation
-make all            - compile
-make re             - recompile
+make all  - compile
+make re   - recompile
 make fclean \ clean - clean
 
 ## To run
